@@ -10,8 +10,8 @@
   </a>
 </p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amr-abd-elhamid-351b92171/)
-[![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/1EUict98pQb5uHxfB5qikHN5xk7_OwlFC/view?usp=sharing)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amrabdelhameeed/)
+[![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://flowcv.com/resume/6dcfl1du4l)
 [![Resume](https://img.shields.io/badge/LeetCode-<COLOR>.svg)](https://leetcode.com/amr22121999/)
      
 

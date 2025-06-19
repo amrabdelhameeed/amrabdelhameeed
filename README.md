@@ -3,7 +3,7 @@
 ## Hello, I'm Amr 👋
 
 <p align="center">
-  <a href="https://github.com/amrabdelhameeed/github-widgetbox">
+  <a href="https://github.com/amrabdelhameeed/github-widgetbox">More actions
     <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=amrabdelhameeed&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
   </a>
 </p>
@@ -12,7 +12,7 @@
 [![Resume](https://img.shields.io/badge/Resume-View-informational)](https://flowcv.com/resume/6dcfl1du4l)
 [![LeetCode](https://img.shields.io/badge/LeetCode-View-orange)](https://leetcode.com/amr22121999/)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 ### 👨🏻‍💻 About Me
 
@@ -27,16 +27,19 @@
 
 ### 🧰 Languages & Tools:
 
+More actions
 <p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/bash/bash-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/burpsuite/burpsuite-ar21.svg"></code>
+  <code><img width="100%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+  <code><img width="100%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="100%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="100%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg"></code>
+  <code><img width="100%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="100%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="100%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+  <code><img width="100%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
 </p>
 
 ---

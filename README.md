@@ -3,14 +3,14 @@
 ## Hello, I'm Amr 👋
 
 <p align="center">
-  <a href="https://github.com/amrabdelhameeed/github-widgetbox">More actions
+  <a href="https://github.com/amrabdelhameeed/github-widgetbox">
     <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=amrabdelhameeed&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
   </a>
 </p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amrabdelhameeed/)
 [![Resume](https://img.shields.io/badge/Resume-View-informational)](https://flowcv.com/resume/6dcfl1du4l)
-[![LeetCode](https://img.shields.io/badge/LeetCode-View-orange)](https://leetcode.com/amr22121999/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-View-orange)](https://leetcode.com/amrabdelhameeed/)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
